@@ -1,6 +1,6 @@
-@InProceedings{Muhammad_2018_CVPR,
-author = {Muhammad, Umar Riaz and Yang, Yongxin and Song, Yi-Zhe and Xiang, Tao and Hospedales, Timothy M.},
-title = {Learning Deep Sketch Abstraction},
-booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-year = {2018}
+@inproceedings{REPO-052,
+    author = "Muhammad, Umar Riaz and Yang, Yongxin and Song, Yi-Zhe and Xiang, Tao and Hospedales, Timothy M.",
+    booktitle = "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    title = "{Learning Deep Sketch Abstraction}",
+    year = "2018"
 }
